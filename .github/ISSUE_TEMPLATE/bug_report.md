@@ -7,6 +7,9 @@ assignees: Jobberson
 
 ---
 
+**What module of the Toolkit did you see the bug in?**
+Ex. Interaction System
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
