@@ -7,30 +7,53 @@ assignees: Jobberson
 
 ---
 
-**What module of the Toolkit did you see the bug in?**
-Ex. Interaction System
+### 🐞 Bug Report for PSX Horror Toolkit
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**What module is affected?**  
+_Example: "Inventory System"_
 
-**To Reproduce**
-Steps to reproduce the behavior:
-Example
-1. Go to '...'
-2. Click on '...'
-3. Scroll down to '...'
-4. See error
+---
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Describe the bug**  
+A clear and concise description of what the bug is.  
+_Example: "When picking up an item, the inventory UI doesn't update until the scene is reloaded."_
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+---
 
-**Version:**
- - Unity Vesion: [e.g. Unity 6 6000.0.23f1]
- - Asset [e.g. 1.0]
- - OS [e.g. Windows]
+**Steps to reproduce the bug**  
+List the steps to reproduce the issue.  
+_Example:_  
+1. Start the game  
+2. Walk up to an item and press the interact key  
+3. Observe the inventory UI  
 
-**Additional context**
-Add any other context about the problem here.
+---
+
+**Expected behavior**  
+Describe what you expected to happen.  
+_Example: "The item should appear in the inventory immediately after picking it up."_
+
+---
+
+**Screenshots or videos (if available)**  
+Attach any visual evidence that helps explain the issue.  
+_Example: "Here's a video showing the bug in action: [YouTube link]"_
+
+---
+
+**Environment details**  
+Provide details about your setup.  
+- Unity version:  
+- PSX Horror Toolkit version:  
+- Platform (Windows, Mac, WebGL, etc.):  
+- Any other relevant info:
+
+---
+
+**Additional context**  
+Add any other context about the problem here.  
+_Example: "I’m using URP and noticed this only happens when post-processing is enabled."_
+
+---
+
+_Thanks for reporting this bug! I'll look into it and work toward a fix to not make retro horror development a spooky endeavor._
